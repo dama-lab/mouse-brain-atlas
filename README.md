@@ -1,4 +1,4 @@
-# mouse-brain-atlas
+# Multi-template MRI mouse brain atlas (in vivo and ex vivo)
 Mouse Brain MRI atlas (both in-vivo and ex-vivo)
 
 You can find automatic mouse brain segmentation tools [here](https://github.com/dancebean/multi-atlas-segmentation) which can use the in-vivo/ex-vivo atlas here to perform multi-atlas structural parellation based on non-rigid registration and label fusion.
