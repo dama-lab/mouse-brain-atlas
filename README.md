@@ -9,17 +9,22 @@ You can find automatic mouse brain segmentation tools [here](https://github.com/
 
 - If you use the MR images of the mouse brain here, we ask you to kindly cite the following papers: 
 
+Wells JA, O'Callaghan JM, Holmes HE, Powell NM, Johnson RA, Siow B, Torrealdea F, Ismail O, Walker-Samuel S, Golay X, Rega M. **In vivo imaging of tau pathology using multi-parametric quantitative MRI. Neuroimage.** 2015 May 1;111:369-78.
+https://www.sciencedirect.com/science/article/pii/S105381191500124X
+
+Holmes HE, Colgan N, Ismail O, Ma D, Powell NM, O'Callaghan JM, Harrison IF, Johnson RA, Murray TK, Ahmed Z, Heggenes M. **Imaging the accumulation and suppression of tau pathology using multiparametric MRI.** Neurobiology of aging. 2016 Mar 1;39:184-94.
+https://www.sciencedirect.com/science/article/pii/S0197458015006053
+
 Holmes HE, Powell NM, Ma D, Ismail O, Harrison IF, Wells JA, Colgan N, O'Callaghan JM, Johnson RA, Murray TK, Ahmed Z. **Comparison of in vivo and ex vivo MRI for the detection of structural abnormalities in a mouse model of tauopathy.** Frontiers in neuroinformatics. 2017 Mar 31;11:20.
 https://www.frontiersin.org/articles/10.3389/fninf.2017.00020/full
 
-Powell NM, Modat M, Cardoso MJ, Ma D, Holmes HE, Yu Y, O’Callaghan J, Cleary JO, Sinclair B, Wiseman FK, Tybulewicz VL. **Fully-automated μMRI morphometric phenotyping of the Tc1 mouse model of Down syndrome.** PloS one. 2016 Sep 22;11(9):e0162974.
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0162974
-
 - If you use the segmented brain structure, or use the atlas with the [automatic mouse brain segmentation tools](https://github.com/dancebean/multi-atlas-segmentation), we ask you to kindly cite the following papers when you used our code in your study:
-
-Ma D, Holmes HE, Cardoso MJ, Modat M, Harrison IF, Powell NM, O'Callaghan J, Ismail O, Johnson RA, O’Neill MJ, Collins EC. **Study the longitudinal in vivo and cross-sectional ex vivo brain volume difference for disease progression and treatment effect on mouse model of tauopathy using automated MRI structural parcellation.** Frontiers in Neuroscience. 2019;13:11.
-https://www.frontiersin.org/articles/10.3389/fnins.2019.00011
 
 Ma D, Cardoso MJ, Modat M, Powell N, Wells J, Holmes H, Wiseman F, Tybulewicz V, Fisher E, Lythgoe MF, Ourselin S. **Automatic structural parcellation of mouse brain MRI using multi-atlas label fusion.** PloS one. 2014 Jan 27;9(1):e86576.
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086576
 
+Powell NM, Modat M, Cardoso MJ, Ma D, Holmes HE, Yu Y, O’Callaghan J, Cleary JO, Sinclair B, Wiseman FK, Tybulewicz VL. **Fully-automated μMRI morphometric phenotyping of the Tc1 mouse model of Down syndrome.** PloS one. 2016 Sep 22;11(9):e0162974.
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0162974
+
+Ma D, Holmes HE, Cardoso MJ, Modat M, Harrison IF, Powell NM, O'Callaghan J, Ismail O, Johnson RA, O’Neill MJ, Collins EC. **Study the longitudinal in vivo and cross-sectional ex vivo brain volume difference for disease progression and treatment effect on mouse model of tauopathy using automated MRI structural parcellation.** Frontiers in Neuroscience. 2019;13:11.
+https://www.frontiersin.org/articles/10.3389/fnins.2019.00011
