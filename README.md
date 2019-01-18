@@ -18,7 +18,7 @@ https://www.sciencedirect.com/science/article/pii/S0197458015006053
 Holmes HE, Powell NM, Ma D, Ismail O, Harrison IF, Wells JA, Colgan N, O'Callaghan JM, Johnson RA, Murray TK, Ahmed Z. **Comparison of in vivo and ex vivo MRI for the detection of structural abnormalities in a mouse model of tauopathy.** Frontiers in neuroinformatics. 2017 Mar 31;11:20.
 https://www.frontiersin.org/articles/10.3389/fninf.2017.00020/full
 
-- If you use the segmented brain structure, or use the atlas with the [automatic mouse brain segmentation tools](https://github.com/dancebean/multi-atlas-segmentation), we ask you to kindly cite the following papers when you used our code in your study:
+- If you use the segmented brain structure, or use the atlas with the [automatic mouse brain segmentation tools](https://github.com/dancebean/multi-atlas-segmentation), we ask you to kindly cite the following papers:
 
 Ma D, Cardoso MJ, Modat M, Powell N, Wells J, Holmes H, Wiseman F, Tybulewicz V, Fisher E, Lythgoe MF, Ourselin S. **Automatic structural parcellation of mouse brain MRI using multi-atlas label fusion.** PloS one. 2014 Jan 27;9(1):e86576.
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086576
