@@ -1,7 +1,7 @@
 # Multi-template MRI mouse brain atlas (in vivo and ex vivo)
 Mouse Brain MRI atlas (both in-vivo and ex-vivo)
 
-**List of Atlas**
+**List of atlases**
 
 - `FVB_NCrl`: Brain MRI atlas of the whld-type `FVB_NCrl` mouse strain (used as the background strain for the  `rTg4510` which is a tauopathy model mice express a repressible form of human tau containing the P301L mutation that has been linked with familial frontotemporal dementia.)
 
