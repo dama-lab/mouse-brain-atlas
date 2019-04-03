@@ -1,5 +1,5 @@
 # Multi-template MRI mouse brain atlas (in vivo and ex vivo)
-Mouse Brain MRI atlas (both in-vivo and ex-vivo) (repository relocated from the [original page at UCL website](http://cmic.cs.ucl.ac.uk/staff/da_ma/multi_atlas/))
+Mouse Brain MRI atlas (both in-vivo and ex-vivo) (repository relocated from the [original UCL webpage](http://cmic.cs.ucl.ac.uk/staff/da_ma/multi_atlas/))
 
 **List of atlases**
 
