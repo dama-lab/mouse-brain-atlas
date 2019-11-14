@@ -1,29 +1,8 @@
-# mouse-cerebellar-morphometry
+# Tc1 Mouse cerebellum atlas (with Purkinje layer segmentation)
 
-# Pipeline Explanation
-
-# Graphical Abstract:
-
-## Schematic diagram of framework pipeline
-
-<img src="C:\Users\madam\Dropbox\应用\ShareLaTeX\NeuroImage - cerebellum\cerebellum_framework_pipleine.png" alt="cerebellum_framework_pipleine" style="zoom:68%;" />
-
-## Example results
-
-<img src="C:\Users\madam\Dropbox\应用\ShareLaTeX\NeuroImage - cerebellum\pipeline_result.png" alt="pipeline_result" style="zoom:48%;" />
-
-# Pipeline workflow
-
-## Groupwise Registration
+for mouse-cerebellar-morphometry
 
 
+## QuickCheck
 
-## Purkinje Layer Extraction
-
-## Cortical thickness
-
-
-
-# Notes:
-
-bash script (*.sh) are used for for parallel processing
+<img src="../docs/tc1_cerebellum.png" alt="QuickCheck demo" style="zoom:50%;" />
