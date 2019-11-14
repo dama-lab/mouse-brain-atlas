@@ -1,6 +1,6 @@
 # Tc1 Mouse cerebellum atlas (with Purkinje layer segmentation)
 
-for mouse-cerebellar-morphometry
+This mouse cerebellar atlas can be used for  mouse cerebellarvmorphometry
 
 
 ## QuickCheck
