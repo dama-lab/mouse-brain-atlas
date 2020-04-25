@@ -18,7 +18,7 @@ This atlas can be used by the corresponding [automatic mouse brain segmentation 
   - Ma D, Cardoso MJ, Modat M, Powell N, Wells J, Holmes H, Wiseman F, Tybulewicz V, Fisher E, Lythgoe MF, Ourselin S. **Automatic structural parcellation of mouse brain MRI using multi-atlas label fusion.** PloS one. 2014 Jan 27;9(1):e86576.
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086576
 
-  - Ma D, Holmes HE, Cardoso MJ, Modat M, Harrison IF, Powell NM, O'Callaghan J, Ismail O, Johnson RA, O’Neill MJ, Collins EC. **Study the longitudinal in vivo and cross-sectional ex vivo brain volume difference for disease progression and treatment effect on mouse model of tauopathy using automated MRI structural parcellation.** Frontiers in Neuroscience. 2019;13:11.
+  - Ma D, Holmes HE, Cardoso MJ, Modat M, Harrison IF, Powell NM, O'Callaghan J, Ismail O, Johnson RA, O’Neill MJ, Collins EC, Mirza F. Beg, Karteek Popuri, Mark F. Lythgoe and Sebastien Ourselin **Study the longitudinal in vivo and cross-sectional ex vivo brain volume difference for disease progression and treatment effect on mouse model of tauopathy using automated MRI structural parcellation.** Frontiers in Neuroscience. 2019;13:11.
 https://www.frontiersin.org/articles/10.3389/fnins.2019.00011
 
 - If you use the brain MR images of the `FVB_NCrl` mouse strain (the wildtype background of rTg4510), we ask you to kindly cite the following papers: 
