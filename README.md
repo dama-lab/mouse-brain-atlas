@@ -32,6 +32,11 @@ https://www.sciencedirect.com/science/article/pii/S0197458015006053
   - Holmes HE, Powell NM, Ma D, Ismail O, Harrison IF, Wells JA, Colgan N, O'Callaghan JM, Johnson RA, Murray TK, Ahmed Z. **Comparison of in vivo and ex vivo MRI for the detection of structural abnormalities in a mouse model of tauopathy.** Frontiers in neuroinformatics. 2017 Mar 31;11:20.
 https://www.frontiersin.org/articles/10.3389/fninf.2017.00020/full
 
+- If you're using the mouse MRI T2* Active Starining Cerebellar atlas, we ask you to please kindly cite the following papers:
+  - Ma, D., Cardoso, M. J., Zuluaga, M. A., Modat, M., Powell, N. M., Wiseman, F. K., Cleary, J. O., Sinclair, B., Harrison, I. F., Siow, B., Popuri, K., Lee, S., Matsubara, J. A., Sarunic, M. V, Beg, M. F., Tybulewicz, V. L. J., Fisher, E. M. C., Lythgoe, M. F., & Ourselin, S. (2020). Substantially thinner internal granular layer and reduced molecular layer surface in the cerebellum of the Tc1 mouse model of Down Syndrome – a comprehensive morphometric analysis with active staining contrast-enhanced MRI. NeuroImage, 117271. https://doi.org/https://doi.org/10.1016/j.neuroimage.2020.117271
+  - Ma, D., Cardoso, M. J., Zuluaga, M. A., Modat, M., Powell, N., Wiseman, F., Tybulewicz, V., Fisher, E., Lythgoe, M. F., & Ourselin, S. (2015). Grey Matter Sublayer Thickness Estimation in the Mouse Cerebellum. In Medical Image Computing and Computer Assisted Intervention 2015 (pp. 644–651). https://doi.org/10.1007/978-3-319-24574-4_77
+  
+
 **Reference**
 - For the original information of the `NeAt` atlas, please please refer to the website: http://brainatlas.mbi.ufl.edu/, and the following two reference papers:
   - Ma Yu, Smith David, Hof Patrick R, Foerster Bernd, Hamilton Scott, Blackband Stephen J, Yu Mei, Benveniste Helene **In Vivo 3D Digital Atlas Database of the Adult C57BL/6J Mouse Brain by Magnetic Resonance Microscopy**. Front. Neuroanat. 2, 1 (2008).
