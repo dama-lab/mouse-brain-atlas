@@ -9,7 +9,8 @@ This mouse cerebellar atlas can be used for  mouse cerebellar morphometry
 
 ## QuickCheck
 
-<img src="../docs/tc1_cerebellum.png" alt="QuickCheck demo" style="zoom:50%;" />
+<img src="../docs/segmentation_qc_all_28_original_aspect_ratio.png" alt="QuickCheck demo" style="zoom:50%;" />
+<img src="../docs/pipeline_results_step1.png" alt="Pipeline demo" style="zoom:50%;" />
 
 ## Reference/citation:
 - If you're using the this mouse MRI cerebellar atlas in your paper, we ask you to please kindly cite the following papers:
