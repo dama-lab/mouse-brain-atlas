@@ -1,5 +1,6 @@
 # Multi-template MRI mouse brain atlas (in vivo and ex vivo)
 [![DOI](https://zenodo.org/badge/166476589.svg)](https://zenodo.org/badge/latestdoi/166476589)
+
 Mouse Brain MRI atlas (both in-vivo and ex-vivo) (repository relocated from the [original webpage](http://cmic.cs.ucl.ac.uk/staff/da_ma/multi_atlas/))
 
 **List of atlases**
