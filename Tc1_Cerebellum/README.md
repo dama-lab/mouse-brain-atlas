@@ -3,9 +3,9 @@
 
 [![DOI](https://zenodo.org/badge/166476589.svg)](https://zenodo.org/badge/latestdoi/166476589)
 
+This mouse cerebellar atlas can be used for  mouse cerebellar morphometry.
 
-This mouse cerebellar atlas can be used for  mouse cerebellar morphometry
-
+We recommend to use [Multi Atlas Segmentation and Morphometric analysis toolkit (MASMAT) for mouse brain MRI](https://github.com/dancebean/multi-atlas-segmentation) along with other [mouse brain atlases](../../../) in this repo.
 
 ## QuickCheck
 
