@@ -13,9 +13,9 @@ Mouse Brain MRI atlas (both in-vivo and ex-vivo) (repository relocated from the 
 
 This atlas can be used by the corresponding [automatic mouse brain segmentation tools](https://github.com/dancebean/multi-atlas-segmentation), which can use the in-vivo/ex-vivo atlas here to perform multi-atlas structural parellation based on non-rigid registration and label fusion.
 
-![Sample image of ex vivo atlas](https://github.com/dancebean/multi-atlas-segmentation/blob/master/docs/quickcheckdemo.png) [Click for sample quality control image of the parcellation output (generated using mas_quickcheck). The similar color between the olfactory bulb and the cortex is due to the limited colormap of `jet`.](https://github.com/dancebean/multi-atlas-segmentation/blob/master/docs/quickcheckdemo.png)
+![Sample image of ex vivo atlas](https://github.com/dancebean/multi-atlas-segmentation/blob/master/docs/quickcheckdemo.png?raw=true) [Click for sample quality control image of the parcellation output (generated using mas_quickcheck). The similar color between the olfactory bulb and the cortex is due to the limited colormap of `jet`.](https://github.com/dancebean/multi-atlas-segmentation/blob/master/docs/quickcheckdemo.png)
 
-![TC1 Cerebellum](https://github.com/dancebean/mouse-brain-atlas/blob/master/docs/segmentation_qc_all_28_original_aspect_ratio.png)
+![TC1 Cerebellum](https://github.com/dancebean/mouse-brain-atlas/blob/master/docs/segmentation_qc_all_28_original_aspect_ratio.png?raw=true)
 
 **Citation**
 
