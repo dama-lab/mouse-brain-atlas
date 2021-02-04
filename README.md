@@ -5,13 +5,17 @@ Mouse Brain MRI atlas (both in-vivo and ex-vivo) (repository relocated from the 
 
 **List of atlases**
 
-- `FVB_NCrl`: Brain MRI atlas of the whld-type `FVB_NCrl` mouse strain (used as the background strain for the  `rTg4510` which is a tauopathy model mice express a repressible form of human tau containing the P301L mutation that has been linked with familial frontotemporal dementia.)
+- [`FVB_NCrl`](https://github.com/dancebean/mouse-brain-atlas/tree/master/FVB_NCrl): Brain MRI atlas of the whld-type `FVB_NCrl` mouse strain (used as the background strain for the  `rTg4510` which is a tauopathy model mice express a repressible form of human tau containing the P301L mutation that has been linked with familial frontotemporal dementia.)
 
-- `NeAt`: Brain MRI atlas of the whld-type `C57BL/6J` mouse strain. Atlas was created based on the original [`MRM NeAt`](http://brainatlas.mbi.ufl.edu/) mouse brain atlas (template images reoriented and bias-corrected, left/right structure label seperated, and 4th ventricle manual segmentation added).
+- [`NeAt`](https://github.com/dancebean/mouse-brain-atlas/tree/master/NeAt): Brain MRI atlas of the whld-type `C57BL/6J` mouse strain. Atlas was created based on the original [`MRM NeAt`](http://brainatlas.mbi.ufl.edu/) mouse brain atlas (template images reoriented and bias-corrected, left/right structure label seperated, and 4th ventricle manual segmentation added).
+
+- [`Tc1 Cerebellum`](https://github.com/dancebean/mouse-brain-atlas/tree/master/Tc1_Cerebellum/): TC1 mouse cerebellar cortical sublayer lobules.This mouse cerebellar atlas can be used for mouse cerebellar morphometry.
 
 This atlas can be used by the corresponding [automatic mouse brain segmentation tools](https://github.com/dancebean/multi-atlas-segmentation), which can use the in-vivo/ex-vivo atlas here to perform multi-atlas structural parellation based on non-rigid registration and label fusion.
 
-[![Sample image of ex vivo atlas](https://github.com/dancebean/multi-atlas-segmentation/blob/master/docs/quickcheckdemo.png) "Click for sample quality control image of the parcellation output (generated using mas_quickcheck). The similar color between the olfactory bulb and the cortex is due to the limited colormap of `jet`."](https://github.com/dancebean/multi-atlas-segmentation/blob/master/docs/quickcheckdemo.png)
+![Sample image of ex vivo atlas](https://github.com/dancebean/multi-atlas-segmentation/blob/master/docs/quickcheckdemo.png) [Click for sample quality control image of the parcellation output (generated using mas_quickcheck). The similar color between the olfactory bulb and the cortex is due to the limited colormap of `jet`.](https://github.com/dancebean/multi-atlas-segmentation/blob/master/docs/quickcheckdemo.png)
+
+![TC1 Cerebellum](https://github.com/dancebean/mouse-brain-atlas/blob/master/docs/segmentation_qc_all_28_original_aspect_ratio.png)
 
 **Citation**
 
