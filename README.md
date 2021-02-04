@@ -3,7 +3,7 @@
 
 Mouse Brain MRI atlas (both in-vivo and ex-vivo) (repository relocated from the [original webpage](http://cmic.cs.ucl.ac.uk/staff/da_ma/multi_atlas/))
 
-**List of atlases**
+## List of atlases
 
 - [**FVB_NCrl**](https://github.com/dancebean/mouse-brain-atlas/tree/master/FVB_NCrl): Brain MRI atlas of the whld-type `FVB_NCrl` mouse strain (used as the background strain for the  `rTg4510` which is a tauopathy model mice express a repressible form of human tau containing the P301L mutation that has been linked with familial frontotemporal dementia.)
 
@@ -11,13 +11,16 @@ Mouse Brain MRI atlas (both in-vivo and ex-vivo) (repository relocated from the 
 
 - [**Tc1 Cerebellum**](https://github.com/dancebean/mouse-brain-atlas/tree/master/Tc1_Cerebellum/): TC1 mouse cerebellar cortical sublayer lobules.This mouse cerebellar atlas can be used for mouse cerebellar morphometry.
 
-This atlas can be used by the corresponding [automatic mouse brain segmentation tools](https://github.com/dancebean/multi-atlas-segmentation), which can use the in-vivo/ex-vivo atlas here to perform multi-atlas structural parellation based on non-rigid registration and label fusion.
+## Sample images of atlas
+These atlases can be used by the corresponding [automatic mouse brain segmentation tools](https://github.com/dancebean/multi-atlas-segmentation), which can use the in-vivo/ex-vivo atlas here to perform multi-atlas structural parellation based on non-rigid registration and label fusion.
 
+- FVB_NCrl
 ![Sample image of ex vivo atlas](https://github.com/dancebean/multi-atlas-segmentation/blob/master/docs/quickcheckdemo.png?raw=true) [Click for sample quality control image of the parcellation output (generated using mas_quickcheck). The similar color between the olfactory bulb and the cortex is due to the limited colormap of `jet`.](https://github.com/dancebean/multi-atlas-segmentation/blob/master/docs/quickcheckdemo.png)
 
-![TC1 Cerebellum](https://github.com/dancebean/mouse-brain-atlas/blob/master/docs/segmentation_qc_all_28_original_aspect_ratio.png?raw=true)
+- Tc1
+![Tc1 Cerebellum](https://github.com/dancebean/mouse-brain-atlas/blob/master/docs/segmentation_qc_all_28_original_aspect_ratio.png?raw=true)
 
-**Citation**
+## Citation
 
 - If you use the segmented brain structure, or use the atlas along with the [automatic mouse brain MRI segmentation tools](https://github.com/dancebean/multi-atlas-segmentation), we ask you to kindly cite the following papers:
 
