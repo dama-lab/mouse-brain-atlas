@@ -46,10 +46,10 @@ https://www.frontiersin.org/articles/10.3389/fninf.2017.00020/full
   - Ma, D., Cardoso, M. J., Zuluaga, M. A., Modat, M., Powell, N., Wiseman, F., Tybulewicz, V., Fisher, E., Lythgoe, M. F., & Ourselin, S. (2015). Grey Matter Sublayer Thickness Estimation in the Mouse Cerebellum. In Medical Image Computing and Computer Assisted Intervention 2015 (pp. 644–651). https://doi.org/10.1007/978-3-319-24574-4_77
   
 
-**Reference**
+## Reference
 - For the original information of the `NeAt` atlas, please please refer to the website: http://brainatlas.mbi.ufl.edu/, and the following two reference papers:
   - Ma Yu, Smith David, Hof Patrick R, Foerster Bernd, Hamilton Scott, Blackband Stephen J, Yu Mei, Benveniste Helene **In Vivo 3D Digital Atlas Database of the Adult C57BL/6J Mouse Brain by Magnetic Resonance Microscopy**. Front. Neuroanat. 2, 1 (2008).
   - Ma Yu,  Hof P R,  Grant S C,  Blackband S J,  Bennett R,  Slatest L,  McGuigan M D,  Benveniste H **A three-dimensional digital atlas database of the adult C57BL/6J mouse brain by magnetic resonance microscopy**. Neuroscience 135, 1203–15 (2005).
 
-**Funding**
+## Funding
 The works in this repositories received multiple funding from EPSRC, UCL Leonard Wolfson Experimental Neurology center, Medical Research Council (MRC), the NIHR Biomedical Research Unit (Dementia) at UCL and the National Institute for Health Research University College London Hospitals Biomedical Research center, the UK Regenerative Medicine Platform Safety Hub, and the Kings College London and UCL Comprehensive Cancer Imaging center CRUK & EPSRC in association with the MRC and DoH (England), UCL Faculty of Engineering funding scheme, Alzheimer Society Reseasrch Program from Alzheimer Society Canada, NSERC, CIHR, MSFHR Canada， Eli Lilly and Company, Wellcome Trust, the Francis Crick Institute, Cancer Research UK, and University of Melbourne McKenzie Fellowship.
