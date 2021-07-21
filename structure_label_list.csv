@@ -19,7 +19,6 @@ Label,Structure
 18,Rest of Midbrain
 19,Basal Forebrain Septum
 20,Fimbria
-
-After left/right seperation
-1~20	Right Hemisphere
-21~40	Left Henisphere
+After,left/right seperation
+1~20,Right Hemisphere
+21~40,Left Henisphere
