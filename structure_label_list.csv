@@ -22,7 +22,7 @@ Label,Structure
 After left/right seperation,
 1~20,Right Hemisphere
 21~40,Left Henisphere
-# Notice # left/right combined labels
-(label 22 comined into 2 for External Capsule / Corpus Callosum)
-(label 30 comined into 10 for Ventricle)
-(label 37 comined into 17 for Brain Stem)
+# Notice # left/right combined labels,
+(label 22 comined into 2 for External Capsule / Corpus Callosum),
+(label 30 comined into 10 for Ventricle),
+(label 37 comined into 17 for Brain Stem),
